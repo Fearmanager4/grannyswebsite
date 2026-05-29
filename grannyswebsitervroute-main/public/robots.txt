@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://grannysrvroute.lovable.app/sitemap.xml
